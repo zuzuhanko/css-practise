@@ -1,0 +1,73 @@
+    .container {
+        max-width: 100%;
+        height: 500px;
+        background-color: rgb(29, 14, 79);
+        color: white;
+    }
+    
+    .head {
+        padding: 20px 50px;
+        display: flex;
+    }
+    
+    nav {
+        display: inline-flex;
+        justify-content: end;
+        align-items: end;
+    }
+    
+    .btn {
+        color: chartreuse;
+    }
+    
+    section {
+        text-align: center;
+    }
+    
+    .buttons {
+        margin: 5px;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .sec-btn {
+        width: 200px;
+        height: 40px;
+        color: rgb(59, 13, 143);
+        border-radius: 75px;
+        text-align: center;
+        margin: 5px;
+    }
+    
+    .trd-btn {
+        width: 75px;
+        height: 40px;
+        background-color: rgb(28, 187, 97);
+        color: white;
+        border-radius: 75px;
+        margin: 5px;
+    }
+    
+    h1 {
+        font-size: 40px;
+    }
+    
+    p {
+        font-size: 15px;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    li {
+        display: inline;
+        margin: 0px 10px;
+    }
+    
+    li button {
+        background-color: rgb(72, 32, 201);
+        color: white;
+        border-radius: 75px;
+    }
